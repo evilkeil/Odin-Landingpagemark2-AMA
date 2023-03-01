@@ -92,3 +92,39 @@ h1{
     border-radius: 10px;
     margin-top: 5px;
 }
+
+/* Styles for the info section */
+
+h2{
+    font-size: 45px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+}
+
+.blue-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 100px;
+}
+
+.blue-box{
+    border:5px solid #3882F6;
+    border-radius: 25px;
+    width: 550px;
+    height: 304px;
+    
+}
+
+.info-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.blue-subtext{
+    text-align: center;
+    font-size: 25px;
+}
