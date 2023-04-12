@@ -216,3 +216,12 @@ footer{
     color: #E5E7EB;
     height: 70px;
 }
+
+.navbar{
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #1F2937;
+}
